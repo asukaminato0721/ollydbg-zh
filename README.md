@@ -2,21 +2,11 @@ ollydbg-zh
 ==========
 Simplified Chinese translation of OllyDbg 2.01
 
+Fully translation. May occur some mistakes. PR welcomed.
+
 How to use
 ----------
-1. Download the [release file](https://github.com/lennylxx/ollydbg-zh/releases). 
-2. Put it into the root folder of the OllyDbg.
-3. Select "File" -> "GUI language" -> "简体中文 (Simplified Chinese)"
-
-Contributing
-------------
-1. Clone this repo.
-
-  ```
-  git clone https://github.com/lennylxx/ollydbg-zh
-  ```
-2. Run the script to make git process UTF-16 LE and checkout the real file.
-
-  ```
-  ./setup-git.sh
-  ```
+1. Download the ollydbg.lng file.
+2. Change it to UTF-16LE encoding.
+3. Put it into the root folder of the OllyDbg.
+4. Select "File" -> "GUI language" -> "简体中文 (Simplified Chinese)"
