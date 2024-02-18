@@ -1,3 +1,5 @@
+Use [x64dbg](https://github.com/x64dbg/x64dbg) instead.
+
 ollydbg-zh
 ==========
 Simplified Chinese translation of OllyDbg 2.01
